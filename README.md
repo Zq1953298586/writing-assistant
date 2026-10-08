@@ -5,7 +5,7 @@
 
 ## 在线体验
 
-开启 GitHub Pages 后访问：`https://Zq1953298586.github.io/writing-assistant-02/`
+开启 GitHub Pages 后访问：`https://Zq1953298586.github.io/writing-assistant/`
 
 也可以直接双击打开 `index.html`，或在目录里跑 `python3 -m http.server 8000` 后访问 `http://127.0.0.1:8000`。
 
